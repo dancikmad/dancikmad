@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Codecrafters Progress](https://backend.codecrafters.io/progress/http-server/c952596e-e2ca-49f9-be57-3be9c70844de)](https://www.google.com/search?q=codecrafters&oq=codecra&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgYIAhBFGEAyCAgDEEUYJxg7MgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTU0NWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
+<a href="https://www.google.com/search?q=codecrafters&oq=codecra&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgYIAhBFGEAyCAgDEEUYJxg7MgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTU0NWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8">
+    <img src="https://backend.codecrafters.io/progress/http-server/c952596e-e2ca-49f9-be57-3be9c70844de" alt="Codecrafters Progress" width="400">
+</a>
 
