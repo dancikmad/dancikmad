@@ -11,10 +11,10 @@
 <p align="left">
   <!-- Banners -->
   <a href="https://www.google.com/search?q=codecrafters">
-    <img src="https://backend.codecrafters.io/progress/http-server/c952596e-e2ca-49f9-be57-3be9c70844de" alt="HTTP Server Progress" height="50">
+    <img src="https://backend.codecrafters.io/progress/http-server/c952596e-e2ca-49f9-be57-3be9c70844de" alt="HTTP Server Progress" height="30">
   </a>
   <a href="https://www.google.com/search?q=codecrafters">
-    <img src="https://backend.codecrafters.io/progress/git/807e6923-0f7a-48f9-a763-d171c131dcdc" alt="Git Progress" height="50">
+    <img src="https://backend.codecrafters.io/progress/git/807e6923-0f7a-48f9-a763-d171c131dcdc" alt="Git Progress" height="26">
   </a>
 </p>
 
