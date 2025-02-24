@@ -1,26 +1,21 @@
 ## Hi there 👋
 
-<!--
-**dancikmad/dancikmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <!-- Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,js,ts,react,tailwind,postgres,redis,mongodb,grafana,docker,kubernetes,aws" height="50">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-    <a href="https://www.google.com/search?q=codecrafters">
-        <img src="https://backend.codecrafters.io/progress/http-server/c952596e-e2ca-49f9-be57-3be9c70844de" alt="HTTP Server Progress" height="50" width="300">
-    </a>
-    <a href="https://www.google.com/search?q=codecrafters">
-        <img src="https://backend.codecrafters.io/progress/git/807e6923-0f7a-48f9-a763-d171c131dcdc" alt="Git Progress" height="50" width="300">
-    </a>
+<p align="left">
+  <!-- Banners -->
+  <a href="https://www.google.com/search?q=codecrafters">
+    <img src="https://backend.codecrafters.io/progress/http-server/c952596e-e2ca-49f9-be57-3be9c70844de" alt="HTTP Server Progress" height="50">
+  </a>
+  <a href="https://www.google.com/search?q=codecrafters">
+    <img src="https://backend.codecrafters.io/progress/git/807e6923-0f7a-48f9-a763-d171c131dcdc" alt="Git Progress" height="50">
+  </a>
 </p>
 
 
